@@ -1,0 +1,42 @@
+_repo: Historia-del-famoso-predicador-Fray-Gerundio-de-Campazas-alias-Zotes-2-de-2_63700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Isla, José Francisco de
+    aliases:
+    - Isla, Jose Francisco de
+    - Rojo, José Francisco de Isla y
+    - Isla, Padre
+    birthdate: 1703
+    deathdate: 1781
+    gutenberg_agent_id: '45937'
+    url: http://www.gutenberg.org/2009/agents/45937
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Francisco_de_Isla
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_de_Isla
+  editor:
+    agent_name: Lidforss, Edvard
+    alias: Lidforss, Eduardo
+    birthdate: 1833
+    deathdate: 1910
+    gutenberg_agent_id: '52189'
+    url: http://www.gutenberg.org/2009/agents/52189
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Edvard_Lidforss
+    - https://es.wikipedia.org/wiki/Edvard_Lidforss
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63700'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 18th century'
+- GITenberg
+title: Historia del famoso predicador Fray Gerundio de Campazas, alias Zotes (2 de
+  2)
+url: http://www.gutenberg.org/ebooks/63700
